@@ -15,5 +15,4 @@ const Welcome = () => {
     </div>
   );
 };
-// hhh
 export default Welcome;
